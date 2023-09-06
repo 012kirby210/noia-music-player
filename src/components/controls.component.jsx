@@ -7,7 +7,6 @@ const TrackControl = () => {
     return (
       <div className="flex justify-center items-center gap-6 text-4xl text-indigo-500 my-6">
           <BackwardButton />
-          <StopButton />
           <PlayButton />
           <ForwardButton />
       </div>
